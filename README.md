@@ -12,7 +12,7 @@ Term: Fall 2022
 + Projec title:  A "data story" on the history of philosophy
 + This project is conducted by [Shuangxian Li]
 
-+ Project summary: The term "philosophy" means, "love of wisdom." In this blog, we want to talk about how these philosophy thoughts changed during the time. We will find the key themes of various 13 schools and their similarities.
++ Project summary: The term "philosophy" means, "love of wisdom." In this blog, we want to talk about how these philosophy thoughts changed during the time. We will find the key themes of various 13 schools and their similarities and their influence on each other.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
